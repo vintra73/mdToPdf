@@ -1,0 +1,11 @@
+DONE
+
+modifica flow prevedendo la presa in carico da parte del Registro delle Imprese di dare evidenza al SUAP della conferma dell'avvio del procedimento ComUnica
+
+
+TOBE INFOCAMERE
+
+verifica il momento dell'evidenza della PIVA attribuita alla nascente impresa (è disponibile al momento della conferma dell'avvio del procedimento ComUnica?)
+
+
+ 
